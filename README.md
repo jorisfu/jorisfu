@@ -1,4 +1,4 @@
-BA-ITSE Student at HPI. HPI-related account only, not used for my personal projects (see links down below)
+HPI-related account only, not used for my personal projects (see links down below)
 
 My main areas of interest are reverse engineering and low-level hardware / OS development, as well as bioinformatics and medical applications. I'm especially interested in projects that combine both of these aspects :)
 
