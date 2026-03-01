@@ -5,7 +5,8 @@ My main areas of interest are reverse engineering and low-level hardware / OS de
 ## What I currently do
 - Work on [PROTzilla](https://github.com/cschlaffner/PROTzilla) during the 2025/2026 Bachelor's Project at the [DACS chair](https://hpi.de/renard/home.html)
 - [opendumbphone](https://gitlab.com/opendumbphone/)
-- Tutor for [Operating Systems 1](https://osm.hpi.de/bs/2025/) WiSe 2025/2026
+
 
 ## What I did
+- Tutor for [Operating Systems 1](https://osm.hpi.de/bs/2025/) WiSe 2025/2026 at the [OSM chair](https://osm.hpi.de)
 - Tutor for HPI introductory courses in 2024 and 2025 at the [AE chair](https://hpi.de/friedrich/)
